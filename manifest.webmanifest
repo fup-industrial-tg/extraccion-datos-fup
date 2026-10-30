@@ -1,0 +1,17 @@
+{
+  "name": "Extracción de Datos · Opciones de Grado FUP",
+  "short_name": "Extracción de Datos",
+  "description": "Extrae los datos de los formatos de opciones de grado diligenciados y los reúne en un Excel.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#005790",
+  "icons": [
+    { "src": "iconos/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
